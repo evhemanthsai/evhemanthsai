@@ -10,8 +10,6 @@ Hi, I’m EVHemanth Sai, a technology enthusiast and entrepreneur building the f
 
 - **EVTECH GROUPS** – A future-facing conglomerate that operates across internet, AI, hardware-software fusion, and defense-grade tech systems.
 - **EVTECHCODR** – A community and platform for developers and creators to collaborate, learn, and innovate.
-- **V4 Smart Dark Mode Extension** – An AI-enhanced browser extension that intelligently converts light themes into beautiful dark themes.
-
 ---
 
 ## 🎯 Mission
