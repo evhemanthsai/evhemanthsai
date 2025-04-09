@@ -49,4 +49,3 @@ I’m building the **next-gen J.A.R.V.I.S.-style AI dashboard** for real-world a
 
 ---
 
-*This page serves as a unified bio across GitHub, websites, and socials. Built with passion by EVTECH GROUPS.*
