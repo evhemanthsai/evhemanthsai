@@ -1,14 +1,14 @@
 # EVHEMANTH SAI
 
-**Founder & Visionary | Tech Innovator | Creator at EVTECH GROUPS**
+**Founder & Visionary | Tech Innovator | Creator at EVTECH**
 
-Hi, I’m EVHemanth Sai, a technology enthusiast and entrepreneur building the future one line of code at a time. I’m the founder of **EVTECH GROUPS**, a multi-industry startup group pushing boundaries in futuristic systems, advanced UI/UX, cybersecurity, smart infrastructure, and intelligent digital experiences.
+Hi, I’m EVHemanth Sai, a technology enthusiast and entrepreneur building the future one line of code at a time. I’m the founder of **EVTECH**, a multi-industry startup group pushing boundaries in futuristic systems, advanced UI/UX, cybersecurity, smart infrastructure, and intelligent digital experiences.
 
 ---
 
 ## 🚀 What I’m Building
 
-- **EVTECH GROUPS** – A future-facing conglomerate that operates across internet, AI, hardware-software fusion, and defense-grade tech systems.
+- **EVTECH** – A future-facing conglomerate that operates across internet, AI, hardware-software fusion, and defense-grade tech systems.
 - **EVTECHCODR** – A community and platform for developers and creators to collaborate, learn, and innovate.
 ---
 
