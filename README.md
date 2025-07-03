@@ -30,8 +30,8 @@ To engineer **cutting-edge systems** that redefine human-computer interaction, f
 
 ## 🌐 Find Me Online
 
-- 🌍 Website: [evhemanthsai.in](https://evhemanthsai.in)
-- 🏢 Company: [evtechgroups.com](https://evtechgroups.com)
+- 🌍 Website: [evhemanthsai.in](https://www.evhemanthsai.in)
+- 🏢 Company: [evtech.org.in](https://www.evtech.org.in)
 - 🧠 GitHub: [github.com/evhemanthsai](https://github.com/evhemanthsai)
 - 💬 Twitter: [twitter.com/evhemanthsai](https://twitter.com/evhemanthsai)
 - 📺 YouTube: [youtube.com/@evhemanthsai](https://youtube.com/@evhemanthsai)
@@ -46,6 +46,3 @@ Open to collaborations, media features, and building next-gen systems. Drop a me
 
 ### ⚡ Fun Fact:
 I’m building the **next-gen J.A.R.V.I.S.-style AI dashboard** for real-world application—yes, like in the movies.
-
----
-
