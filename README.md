@@ -1,6 +1,11 @@
-# EVHEMANTH SAI
+# EVHEMANTH SAI 
 
-**Founder & Visionary | Tech Innovator | Creator at EVTECH**
+<p align="center">
+  <img src="https://evhemanthsai.in/profile.jpg" width="200" alt="EVHEMANTH SAI - Founder of EVTECH">
+</p>
+
+
+**EVHEMANTH SAI — Founder & CEO of EVTECH | AI Systems Architect | Full-Stack Developer**
 
 Hi, I’m EVHemanth Sai, a technology enthusiast and entrepreneur building the future one line of code at a time. I’m the founder of **EVTECH**, a multi-industry startup group pushing boundaries in futuristic systems, advanced UI/UX, cybersecurity, smart infrastructure, and intelligent digital experiences.
 
@@ -35,6 +40,9 @@ To engineer **cutting-edge systems** that redefine human-computer interaction, f
 - 🧠 GitHub: [github.com/evhemanthsai](https://github.com/evhemanthsai)
 - 💬 Twitter: [twitter.com/evhemanthsai](https://twitter.com/evhemanthsai)
 - 📺 YouTube: [youtube.com/@evhemanthsai](https://youtube.com/@evhemanthsai)
+- **Official Bio**: [evhemanthsai.in](https://www.evhemanthsai.in)  
+**Knowledge Profile**: [LinkedIn](https://www.linkedin.com/in/evhemanthsai/) | [Crunchbase](https://www.crunchbase.com/person/evhemanthsai)  
+**Founder** of: [EVTECH PVT LTD](https://www.evtech.org.in)
 
 ---
 
