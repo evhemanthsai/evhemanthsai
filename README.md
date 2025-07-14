@@ -1,7 +1,7 @@
 # EVHEMANTH SAI 
 
 <p align="center">
-  <img src="https://evhemanthsai.in/profile.jpg" width="200" alt="EVHEMANTH SAI - Founder of EVTECH">
+  <img src="https://evhemanthsai.in/profile.png" width="200" alt="EVHEMANTH SAI - Founder of EVTECH">
 </p>
 
 
